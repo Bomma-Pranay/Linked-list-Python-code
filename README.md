@@ -10,5 +10,5 @@ This repository contains working code of all basic linked list functions such as
 8.middle
 9.merge
 10.mergeSort
-11.linaerSearch 
-Hope it helps :)
+11.linearSearch 
+. Hope it helps :)
