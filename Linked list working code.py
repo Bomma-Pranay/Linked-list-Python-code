@@ -1,3 +1,5 @@
+Actual code starts from line no.18
+'''
 Remove the documentation string i.e ''' ''' to make the code work for each function below. I have implemented all the functions such as
 1.appendnode
 2.length
@@ -9,10 +11,10 @@ Remove the documentation string i.e ''' ''' to make the code work for each funct
 8.middle
 9.merge
 10.mergeSort
-11.linaerSearch
+11.linearSearch
 
-Go to line 206 for implementation of functions. Hope this helps :)
-
+Go to line 208 for implementation of functions. Hope this helps :)
+'''
 class Node:
     def __init__(self, data):
         "constructor to initiate this object"
